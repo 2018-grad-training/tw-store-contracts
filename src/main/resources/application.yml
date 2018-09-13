@@ -1,0 +1,6 @@
+wiremock:
+  server:
+    files:
+    stubs:
+    - file:build/stubs/**/mappings/**/*.json
+    port: 6565

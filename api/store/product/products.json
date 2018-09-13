@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "可乐",
+    "price": 4.5,
+    "unit": "瓶",
+    "totalAmount": 100,
+    "imageUrl": "https://img14.360buyimg.com/n0/jfs/t22051/44/761434470/309245/e15f5374/5b17406aN04b77210.jpg"
+  },
+  {
+    "id": 2,
+    "name": "维他柠檬茶饮料",
+    "price": 4.5,
+    "unit": "盒",
+    "totalAmount": 10,
+    "imageUrl": "https://img14.360buyimg.com/n0/jfs/t21850/359/849665107/181450/7e345808/5b1a1c9bN6d2213df.jpg"
+  },
+  {
+    "id": 3,
+    "name": "雪碧",
+    "price": 5,
+    "unit": "罐",
+    "totalAmount": 9,
+    "imageUrl": "https://img14.360buyimg.com/n0/jfs/t24562/130/1069092025/453043/f03c5f1/5b4ee8f3N435b511b.jpg"
+  },
+  {
+    "id": 4,
+    "name": "雀巢咖啡饮料",
+    "price": 12.9,
+    "unit": "3联包",
+    "totalAmount": 1,
+    "imageUrl": "https://img14.360buyimg.com/n0/jfs/t6754/51/2097074375/3729402/77cdad21/595c9b47N597e94d8.jpg"
+  },
+  {
+    "id": 5,
+    "name": "曲奇奶香白巧克力",
+    "price": 20,
+    "unit": "盒",
+    "totalAmount": 100,
+    "imageUrl": "https://img14.360buyimg.com/n0/jfs/t21028/79/14469742/321430/aa32b887/5af565bbN4acf3b33.jpg"
+  }
+]

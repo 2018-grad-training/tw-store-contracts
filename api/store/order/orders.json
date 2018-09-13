@@ -1,0 +1,24 @@
+{
+  "id": 1,
+  "items": [
+    {
+      "product": {
+        "name": "曲奇奶香白巧克力",
+        "price": 20,
+        "unit": "盒"
+      },
+      "amount": 2
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "雀巢咖啡饮料",
+        "price": 12.9,
+        "unit": "3联包"
+      },
+      "amount": 1
+    }
+  ],
+  "sum": 200,
+  "payStatus": "UNPAIED"
+}

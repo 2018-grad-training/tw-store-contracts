@@ -6,9 +6,6 @@ import org.springframework.cloud.contract.spec.Contract
             request {
                 method 'GET'
                 url $(c("/store/shoppings"))
-                headers {
-                    contentType(applicationJson())
-                }
             }
             response {
                 status 200

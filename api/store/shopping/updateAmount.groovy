@@ -6,9 +6,6 @@ import org.springframework.cloud.contract.spec.Contract
             request {
                 method 'PATCH'
                 url $(c("/store/shoppings/${regex(number())}"), p("/shopping/1"))
-                headers {
-                    contentType(applicationJson())
-                }
                 body(
                         items: [
                                 [
